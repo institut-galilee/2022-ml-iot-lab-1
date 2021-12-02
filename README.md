@@ -36,3 +36,9 @@
 
 ## Part six
 * Define a network manager that listens to the incoming connections to the access point and outputs the assigned local IP address.
+
+## Part seven
+* Create an Android activity that reads the phone's camera stream
+
+## Part eight
+* Create an Android activity that reads the phone's motion sensors streams
