@@ -8,6 +8,7 @@
 
 
 ## Part two
+* Take a look at https://grpc.io/docs/what-is-grpc/ to get an overview of what is meant with remote procedure calls (RPC)
 * Define a remote procedure call protocol with `gRPC`
 
 ## Part three
@@ -20,15 +21,15 @@
 
 
 ## Part five
-* Use the RPC protocol defined above to perform communications between a python program (running on a PC) and the server (running on the mobile device)
+* Use the RPC protocol defined above to perform communications between a Kotlin program (running on the mobile device) and the Python server (running on a PC)
 
 ![rpc_Kotlin-to-Python](https://user-images.githubusercontent.com/8298445/144479920-d239c3bb-4667-4e68-83c0-624bb0b986d6.png)
 
 
 
 ## Part four
-* Now we ask you to go the way around, i.e., a Python client connects to a Kotlin serving remote procedure calls on an Android device;
-* Setting up a server on your mobile device (Android/Kotlin);
+* Now we ask you to go the way around, i.e., a Python client (running on a PC) connects to a Kotlin serving remote procedure calls on an Android device;
+* Setting up a server on your mobile device (Android/Kotlin). Hint: make use of `io.grpc.netty.shaded.io.grpc.netty.NettyServerBuilder`;
 * Implement the RPC protocol in Android to handle the remote procedure calls
 
 ![rpc_Python-to-Kotlin](https://user-images.githubusercontent.com/8298445/144479951-731a0a52-1723-4c85-bec9-2776e619baa0.png)
