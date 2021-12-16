@@ -1,5 +1,7 @@
 # 2022-ml-iot-lab-1
 
+The following activities will be useful for the final project. The various components that you will build throughout this lab will be included in the NetworkManager and the Mobile application of the project (more information about these parts later).
+
 ## Part one
 * Setting up a local network using you PC as a hotspot (access point);
 * Launch the local network either manually or programmatically (you have to search for platform-specific solutions).
