@@ -4,7 +4,7 @@ The following activities will be useful for the final project. The various compo
 
 ## Activity one
 * Setting up a local network using you PC as a hotspot (access point);
-* Launch the local network either manually or programmatically (you have to search for platform-specific solutions).
+* Launch the local network either manually or programmatically, i.e., preferably via a Python program. You have to search for platform-specific solutions.
 
 ![hotspot-client](https://user-images.githubusercontent.com/8298445/144478047-2818168d-828d-4dd1-84c4-48ac4c8ad5e0.png)
 
