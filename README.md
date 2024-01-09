@@ -1,4 +1,4 @@
-# 2022-ml-iot-lab-1
+# 2024-ml-iot-lab-1
 
 The following activities will be useful for the final project. The various components that you will build throughout this lab will be included in the NetworkManager and the Mobile application of the project (more information about these parts later).
 
